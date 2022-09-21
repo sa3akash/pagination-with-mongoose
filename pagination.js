@@ -43,3 +43,13 @@ sexyModel.find()
         if(err) { res.status(500).json(err); return; };
         res.status(200).json(doc);
     });
+
+
+
+
+
+
+
+
+
+
